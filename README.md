@@ -7,7 +7,7 @@
 - Para iniciar la aplicacion ejecutar: `npm start`
 - En cualquier navegador(Firfox o Chrome) ingresar la direccion: [localhost:3000](http://localhost:3000)
 
-### Pasos a seguir para crear la aplicacion desde 0:
+## Pasos a seguir para crear la aplicacion desde cero:
 1.  Creo la carpeta de mi proyecto,en este caso tp1_m3
 2.  Dentro creo el programa principal de mi aplicacion: aplicacion.js
   ```javascript
