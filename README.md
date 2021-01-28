@@ -1,13 +1,13 @@
 # Modulo 3-TP1: Creacion de una aplicación básica con Node y Express
-### Se asume que ya esta instalado Node y npm.
+** Se asume que ya esta instalado Node y npm. **
 #### Para instalar la aplicación:
 - descargar el repositorio como zip y luego extraer.
 - Abrir la consola de node y cambiar al directorio donde se extrajeron los archivos.
 - Ejecutar en la consola `npm install`
 - Para iniciar la aplicacion ejecutar: `npm start`
-- En cualquier navegador(Firfox o Chrome) ingresar la direccion: [localhost:3000](localhost:3000)
+- En cualquier navegador(Firfox o Chrome) ingresar la direccion: [localhost:3000](http://localhost:3000)
 
-#### Pasos a seguir para crear la aplicacion desde 0:
+### Pasos a seguir para crear la aplicacion desde 0:
 1.  Creo la carpeta de mi proyecto,en este caso tp1_m3
 2.  Dentro creo el programa principal de mi aplicacion: aplicacion.js
   ```javascript
