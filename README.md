@@ -4,7 +4,7 @@
 2.  Dentro creo el programa principal de mi aplicacion: programa_tp1M3.js
   ```javascript
   console.log("Hola Mundo!");
-    ```
+  ```
 3. Creo el archivo package.json usando: `npm init -f`
     - Este archivo se ve incialmente de esta manera:
      ```javascript
