@@ -7,7 +7,7 @@
   ```
 3. Creo el archivo package.json usando: `npm init -f`
     - Este archivo se ve incialmente de esta manera:
-     ```javascript
+```javascript
          {
   "name": "tp1_u3",
   "version": "1.0.0",
@@ -20,7 +20,7 @@
   "author": "",
   "license": "ISC"
 }
-    ```
+```
 - Modifico el archivo para inciar el programa pricipal:
     ```javascript
         {
