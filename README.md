@@ -1,15 +1,15 @@
-# Ejemplo de creación de una aplicación básica con Node y Express
+# Modulo 3-TP1: Creacion de una aplicación básica con Node y Express
 
 1.  Creo la carpeta de mi proyecto,en este caso tp1_m3
-2.  Dentro creo el programa principal de mi aplicacion: programa_tp1M3.js
+2.  Dentro creo el programa principal de mi aplicacion: aplicacion.js
   ```javascript
   console.log("Hola Mundo!");
   ```
 3. Creo el archivo package.json usando: `npm init -f`
     - Este archivo se ve incialmente de esta manera:
 ```javascript
-         {
-  "name": "tp1_u3",
+{
+  "name": "tp1_m3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,7 +23,7 @@
 ```
 - Modifico el archivo para inciar el programa pricipal:
     ```javascript
-        {
+    {
     "name": "tp1_m3",
     "version": "1.0.0",
     "description": "",
