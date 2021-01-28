@@ -9,7 +9,7 @@
 
 ## Pasos a seguir para crear la aplicacion desde cero:
 1.  Creo la carpeta de mi proyecto,en este caso tp1_m3
-2.  Dentro creo el programa principal de mi aplicacion: programa_tp1M3.js.js
+2.  Dentro creo el programa principal de mi aplicacion: programa_tp1M3.js
   ```javascript
   console.log("Hola Mundo!");
   ```
