@@ -81,7 +81,7 @@ app.listen(3000,function(){
 });
  ```
  7. Iniciamos la aplicacion ejecutando en consola: `npm start` \
- Al abrir el navegador en la direccion: localhost:3000 se ve una pagina en blanco con el mensaje "Cannot GET /" \
+ Al abrir el navegador en la direccion: [localhost:3000](http://localhost:3000) se ve una pagina en blanco con el mensaje "Cannot GET /" \
  Esto es lo que se muestra por defecto cuando no hay ninguna pagina web o mensaje para renderizar.
  8. Para que la aplicacion muestre un mensaje en el navegador modificar program_tp1M3.js por lo siguiente:
  ```javascript
@@ -98,7 +98,7 @@ app.listen(3000,function(){
     console.log("Funciona!Mi aplicación esta escuchando en el puerto 3000!")
 });
 ```
-Ahora al abrir el navegador en la dirección localhost:3000  \
+Ahora al abrir el navegador en la dirección [localhost:3000](http://localhost:3000)  \
 Se muestrara una página en blanco con el mensaje: "Hola Mundo!Mi aplicación esta funcionando!"
 
 
